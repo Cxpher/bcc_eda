@@ -25,6 +25,6 @@ However, minimizing false negatives is important even if we predict false positi
 |2.  | These features include concave area_worst, concave points_worst, perimeter_worst, radius_worst + concave points_mean and perimeter_mean. |      |
 |3.  | Logistic regression model is relatively accurate in prediction. |      |
 
-Logistic Regression model has a mean CV accuracy of 0.9780. Confusion matrix shows no false negatives.
+Logistic Regression model has a mean CV accuracy of 0.9780. Confusion matrix shows minimal false negatives.
 
 <br/><br/>
