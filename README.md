@@ -1,4 +1,4 @@
-# <p align=center> Capstone Project 24.1: Final Report
+# <p align=center> Capstone Project 20.1: Initial Report and Exploratory Data Analysis (EDA)
 
 ## Quick links
 * Link to the dataset used in this analysis can be found <a href="https://github.com/Cxpher/bcc/blob/main/data/data.csv">here</a>.
