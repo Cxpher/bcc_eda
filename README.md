@@ -24,6 +24,5 @@ However, minimizing false negatives is important even if we predict false positi
 |1.  | Discovered high positive correlation between a positive diagnosis and various features of the tumor. |      |		
 |2.  | These features include concave area_worst, concave points_worst, perimeter_worst, radius_worst + concave points_mean and perimeter_mean. |      |
 |3.  | Logistic regression model is relatively accurate in prediction. |      |
-|4.  | Support Vector Machines model is a close 2nd. |      |
 
 <br/><br/>
