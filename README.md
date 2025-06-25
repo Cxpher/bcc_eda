@@ -18,25 +18,12 @@ However, minimizing false negatives is important even if we predict false positi
 1. Logistic regression
    Simple and efficient model that can map relationships between features and the target variable. It gives you a probability.
 
-2. K-Nearest Neighbors
-   Simple model that can be used to do classification. It's good for small datasets like the one used here and does not require much knowledge of the data in terms of samples.
-
-3. Random Forests
-   It builds multiple forests and merges their predictions (ensemble) for making a more accurate prediction. It does not overfit easily and even if the features are non-linear, it handles those relationships well.
-
-4. Support Vector Machines
-   Very good at finding optimal decision boundaries and not prone to overfitting. Can handle both linear and non-linear relationships between features well using kernal functions. Handles outliers in the data very well.
-
 ## Table of findings - Concluding hypothesis
 
 |No. | Findings | Remarks |
 |:--- |:---	  |:---      |
 |1.  | Discovered high positive correlation between a positive diagnosis and various features of the tumor. |      |		
 |2.  | These features include concave area_worst, concave points_worst, perimeter_worst, radius_worst + concave points_mean and perimeter_mean. |      |
-|3.  | Logistic regression model is the most accurate in prediction. |      |
+|3.  | Logistic regression model is relatively accurate in prediction. |      |
 |4.  | Support Vector Machines model is a close 2nd. |      |
-|5.  | The condition of the car matters the most. Only cars that are in 'like new', 'excellent' or 'good condition' hold any value. |      |
-|6.  | Cars that are dated in the last 5 or so years hold the most value. Anything older drops price significantly. |      |
-|7.  | Only cars with clean title status have reasonable value. |      |
-|8.  | White color cars seems to be the most popular. |      |
 
