@@ -11,7 +11,6 @@ Breast cancer affects many women in today's modern society. Based on research pe
 ## Business goal
 However, minimizing false negatives is important even if we predict false positives. This prevents unnecessary grief and apply treatment and dispending medication incorrectly. My goal is to understand what factors are indicative of breast cancer and make best cancer predictions with a test dataset or potentially new generalized samples so that doctors can use this model to make accurate predictions.
 
-<br/><br/>
 **Determining what features are indicative of a malignant tumor growth in the breast would allow doctors to confidently apply treatment early.**
 
 ## Model selection justification
@@ -27,3 +26,4 @@ However, minimizing false negatives is important even if we predict false positi
 |3.  | Logistic regression model is relatively accurate in prediction. |      |
 |4.  | Support Vector Machines model is a close 2nd. |      |
 
+<br/><br/>
